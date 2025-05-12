@@ -4,6 +4,14 @@ Submitted by: Riya
 
 Time spent: 2 hours spent in total
 
+<div>
+    <a href="https://www.loom.com/share/90f7ba1693a64d0987e3a50327e87f74">
+    </a>
+    <a href="https://www.loom.com/share/90f7ba1693a64d0987e3a50327e87f74">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/90f7ba1693a64d0987e3a50327e87f74-f12c5145232a8f3b-full-play.gif">
+    </a>
+  </div>
+
 ## Required Features
 
 The following **required** functionality is completed:
